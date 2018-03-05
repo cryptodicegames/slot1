@@ -57,7 +57,7 @@ $(document).ready(function() {
 
         $(el).pan({
             fps:30,
-            dir:'down'
+            dir:'right'
         });
         $(el).spStop();
     }
